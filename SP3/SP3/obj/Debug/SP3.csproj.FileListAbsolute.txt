@@ -1,0 +1,20 @@
+C:\Users\Tomás Cuevas\Desktop\SP3_Completo\SP3\bin\Debug\SP3.exe.config
+C:\Users\Tomás Cuevas\Desktop\SP3_Completo\SP3\bin\Debug\SP3.exe
+C:\Users\Tomás Cuevas\Desktop\SP3_Completo\SP3\bin\Debug\SP3.pdb
+C:\Users\Tomás Cuevas\Desktop\SP3_Completo\SP3\obj\Debug\SP3.csproj.AssemblyReference.cache
+C:\Users\Tomás Cuevas\Desktop\SP3_Completo\SP3\obj\Debug\SP3.Form1.resources
+C:\Users\Tomás Cuevas\Desktop\SP3_Completo\SP3\obj\Debug\SP3.Properties.Resources.resources
+C:\Users\Tomás Cuevas\Desktop\SP3_Completo\SP3\obj\Debug\SP3.csproj.GenerateResource.cache
+C:\Users\Tomás Cuevas\Desktop\SP3_Completo\SP3\obj\Debug\SP3.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Cuevas\Desktop\SP3_Completo\SP3\obj\Debug\SP3.exe
+C:\Users\Tomás Cuevas\Desktop\SP3_Completo\SP3\obj\Debug\SP3.pdb
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP3\SP3\obj\Debug\SP3.csproj.AssemblyReference.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP3\SP3\obj\Debug\SP3.Properties.Resources.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP3\SP3\obj\Debug\SP3.csproj.GenerateResource.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP3\SP3\obj\Debug\SP3.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP3\SP3\obj\Debug\SP3.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP3\SP3\obj\Debug\SP3.pdb
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP3\SP3\bin\Debug\SP3.exe.config
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP3\SP3\bin\Debug\SP3.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP3\SP3\bin\Debug\SP3.pdb
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP3\SP3\obj\Debug\SP3.frmAutoTest.resources
